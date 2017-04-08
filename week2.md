@@ -16,3 +16,7 @@ http://www.cssfontstack.com/
 
 Useful keyboard shortcuts:
 https://github.com/ajaxorg/ace/wiki/Default-Keyboard-Shortcuts
+
+
+Career advice:
+http://lifehacker.com/what-i-wish-i-knew-when-i-started-my-career-as-a-softwa-1681002791
