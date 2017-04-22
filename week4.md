@@ -10,3 +10,7 @@ http://stackoverflow.com/questions/2189452/when-to-use-margin-vs-padding-in-css
 Flexbox visual guides:
 https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties
 http://www.sketchingwithcss.com/samplechapter/cheatsheet.html
+
+
+Flex playground:
+https://demos.scotch.io/visual-guide-to-css3-flexbox-flexbox-playground/demos/
