@@ -7,6 +7,7 @@ https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-7/diagram-b
 
 jquery:
 http://jquery.com/
+http://api.jquery.com/text/
 
 Seminar survey:
 https://codecademyready.typeform.com/to/M5R2Ss
